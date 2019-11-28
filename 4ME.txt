@@ -1,0 +1,4 @@
+ng serve -o
+ng g c \\имя  ng g s \\имя
+npm install
+cd ..
